@@ -14,7 +14,7 @@ showAllButton.textContent = "Show All Books";
 showAllButton.classList.add('show-all-books');
 
 // Fetch books from JSON file
-fetch('../data/updated_books.json')
+fetch('https://github.com/mohitshrestha/temp/blob/main/data/updated_books.json')
     .then(response => response.json())
     .then(data => {
         books = data;
