@@ -1,5 +1,23 @@
 [
     {
+        "Timestamp": "12/12/2025 7:25:18",
+        "ISBN-13": "9789370035300",
+        "Book Title": "Diaries in Global Health: A Southern Perspective, Bipin Adhikari",
+        "Category": "New, Non-Fiction, Biography & Autobiography, Medical",
+        "Format": "Paperback",
+        "Price in NPR (रु)": "Rs 790.00",
+        "Price in IC (₹)": "₹ 495.00",
+        "Price in Pound (£)": "",
+        "Price in USD ($)": "",
+        "Quantity in Stock": "250",
+        "Status": "",
+        "Total Stock Value": "Rs 1,97,500.00",
+        "Notes": "",
+        "author": "Bipin Adhikari",
+        "description": "Diaries in Global Health: A Southern Perspective by Bipin Adhikari is a heartfelt journey through medicine, identity, and global connection. From the valleys of Nepal to the academic halls of Oxford and the challenging humanitarian fields of South Sudan, Adhikari reflects on how place and purpose shape a doctor’s understanding of equity and care. His writing feels intimate yet expansive, offering glimpses into the emotional terrain behind global health work. It’s a warm, thoughtful read for anyone curious about global health from a grounded Southern lens.",
+        "image": "https://m.media-amazon.com/images/I/81-0Y2jW2QL._SL1500_.jpg"
+    },
+    {
         "Timestamp": "3/4/2025 10:08:51",
         "ISBN-13": "9789356962668",
         "Book Title": "An Insider’s Guide to Cases in Clinical Medicine (Long and Short Cases)",
@@ -7459,24 +7477,6 @@
         "author": "Unknown Author",
         "description": "No description available",
         "image": "https://covers.openlibrary.org/b/id/11217364-L.jpg"
-    },
-    {
-        "Timestamp": "12/12/2025 7:25:18",
-        "ISBN-13": "9789370035300",
-        "Book Title": "Diaries in Global Health: A Southern Perspective, Bipin Adhikari",
-        "Category": "New, Non-Fiction, Biography & Autobiography, Medical",
-        "Format": "Paperback",
-        "Price in NPR (रु)": "Rs 790.00",
-        "Price in IC (₹)": "₹ 495.00",
-        "Price in Pound (£)": "",
-        "Price in USD ($)": "",
-        "Quantity in Stock": "250",
-        "Status": "",
-        "Total Stock Value": "Rs 1,97,500.00",
-        "Notes": "",
-        "author": "Bipin Adhikari",
-        "description": "Diaries in Global Health: A Southern Perspective by Bipin Adhikari is a heartfelt journey through medicine, identity, and global connection. From the valleys of Nepal to the academic halls of Oxford and the challenging humanitarian fields of South Sudan, Adhikari reflects on how place and purpose shape a doctor’s understanding of equity and care. His writing feels intimate yet expansive, offering glimpses into the emotional terrain behind global health work. It’s a warm, thoughtful read for anyone curious about global health from a grounded Southern lens.",
-        "image": "https://m.media-amazon.com/images/I/81-0Y2jW2QL._SL1500_.jpg"
     },
     {
         "Timestamp": "",
@@ -16210,3 +16210,4 @@
     }
 
 ]
+
